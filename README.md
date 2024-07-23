@@ -1,23 +1,21 @@
 <h1 align="center"> Hii, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Ashish Kumar</h1>
+         width="45" /> I'm Ashish</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashish4382&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Ashish4382" /> </p>
 
 # 💫 About Me
 
 - 😄 Pronouns: He/His
-- 🔭 I'm currently working on a Fullstack Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about Python, Web Development or any tech-related stuff.
+- 🔭 I'm currently working on a Web Development Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about Web Development or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashish4382)
-[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/ueCeIiuYjHSn)
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ashish4382)
-[![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ashish4382@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-15b873318)
+[![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish4382als@gmail.com)
 
 ## 💻 Tech Stack
 
